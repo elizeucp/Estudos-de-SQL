@@ -27,4 +27,6 @@ Nesse trecho, criei uma tabela com o nome `clientes`, na qual há 3 colunas. A *
 
 No SQL, não importa a forma de escrita entre **Uppercase** e **Lowercase** (Ex.: `AUTO_INCREMENT` / `auto_increment`. Ambos funcionarão), porém, o ideal é que mantenhamos sempre um padrão na forma de escrita, para facilitar a visualização de todo o projeto. No meu caso, estarei tilizando a convenção de escrever os comando em **UPPERCASE**.
 
+No arquivo `Detalhes.md` há uma descrição mais detalhada da parte teórica do conteúdo. Dê uma olhadinha para apronfudar mais sobre o conteúdo! 🖖📚
+
 ---
