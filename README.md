@@ -4,7 +4,7 @@ Neste repositório estarão todos os meus estudos e treinos relacionados ao SQL 
 
 ## Sumário
 
-1. [Introdução ao SQL e MySQL](./01-Introdução/README.md)
+1. [Introdução ao SQL e MySQL](./01-introducao/README.md)
 2. [Consultas com SELECT](./02-select/README.md)
 3. [Operadores e Filtros (WHERE, LIKE, IN, BETWEEN)](./03-operadores-filtros/README.md)
 4. [Funções SQL (Agregação, String, Data)](./04-funcoes-sql/README.md)
