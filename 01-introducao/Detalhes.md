@@ -47,5 +47,4 @@ No MySQL, o gerenciamento dos bancos é realizado por meio de um servidor, que p
 O papel do SQL e do MySQL na tecnologia é fundamental. Praticamente toda aplicação que lida com dados utiliza algum tipo de banco de dados relacional como parte de sua infraestrutura. Saber criar, consultar e manipular dados é uma habilidade importante para desenvolvedores, analistas de dados e administradores de sistemas. Além dos comandos e conceitos básicos, é importante estudar sobre modelagem de dados, normalização, segurança e otimização de consultas para garantir que os sistemas sejam eficientes e seguros.
 
 Estudar SQL e MySQL é um passo essencial para compreender como os dados são estruturados, manipulados e recuperados nas aplicações modernas, sendo uma base sólida para o desenvolvimento de software e para a análise de dados.
-
 ---
