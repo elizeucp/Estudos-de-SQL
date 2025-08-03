@@ -25,9 +25,9 @@ Nesse trecho, criei uma tabela com o nome `clientes`, na qual há 3 colunas. A *
 
 ## Notas Importantes!
 
-No SQL, não importa a forma de escrita entre **Uppercase** e **Lowercase** (Ex.: `AUTO_INCREMENT` / `auto_increment`. Ambos funcionarão), porém, o ideal é que mantenhamos sempre um padrão na forma de escrita, para facilitar a visualização de todo o projeto. No meu caso, estarei tilizando a convenção de escrever os comando em **UPPERCASE**.
+- No SQL, não importa a forma de escrita entre **Uppercase** e **Lowercase** (Ex.: `AUTO_INCREMENT` / `auto_increment`. Ambos funcionarão), porém, o ideal é que mantenhamos sempre um padrão na forma de escrita, para facilitar a visualização de todo o projeto. No meu caso, estarei tilizando a convenção de escrever os comando em **UPPERCASE**.
 
-O tipo `VARCHAR` se difere do `CHAR` pois ao utilizar (por exemplo) **VARCHAR(30)** ele ocupará até 30 caracteres, sendo que caso o dado não ocupe esse total de caracteres, eles não ocuparão espaço na memória. No caso do tipo **CHAR** ele usaria os caracteres informados e preencheria os espaços não utilizados por "espaços em brancho".
+- O tipo `VARCHAR` se difere do `CHAR` pois ao utilizar (por exemplo) **VARCHAR(30)** ele ocupará até 30 caracteres, sendo que caso o dado não ocupe esse total de caracteres, eles não ocuparão espaço na memória. No caso do tipo **CHAR** ele usaria os caracteres informados e preencheria os espaços não utilizados por "espaços em brancho".
 
 No arquivo `Detalhes.md` há uma descrição mais detalhada da parte teórica do conteúdo. Dê uma olhadinha para apronfudar mais sobre o conteúdo! 🖖📚
 
