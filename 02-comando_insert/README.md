@@ -16,9 +16,6 @@ INSERT INTO clientes (nome, email) VALUES
 ('Carlos Souza', 'carlos@email.com');
 ```
 
-## Notas Importantes!
-
----
 
 ### Inserindo Linhas
 ![comando-insert](img/comando-insert.png)
