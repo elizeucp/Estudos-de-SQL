@@ -31,4 +31,8 @@ No arquivo `Detalhes.md` há uma descrição mais detalhada da parte teórica do
 
 ![a](./img/criacao-de-tabela.png)
 
+## Referências
+
+[Curso em Vídeo - Curso MySQL #03 - Criando o primeiro Banco de Dados](https://youtu.be/m9YPlX0fcJk?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r)
+
 ---
