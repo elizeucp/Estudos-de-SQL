@@ -16,6 +16,22 @@ INSERT INTO clientes (nome, email) VALUES
 ('Carlos Souza', 'carlos@email.com');
 ```
 
+## Notas Importantes!
 
+---
+
+### Inserindo Linhas
+![comando-insert](img/comando-insert.png)
+
+### Selecionando Linhas para Visualização
+![selecionando-linhas](img/selecionando-linhas.png)
+
+### Visualizando Linhas
+![visualizacao-linha](img/visualizacao-linhas.png)
+---
+
+## Referências
+
+[Curso em Vídeo - Curso MySQL #05 - Inserindo Dados na Tabela (INSERT INTO)](https://youtu.be/NCG9niOlm40?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r)
 
 ---
