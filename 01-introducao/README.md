@@ -29,6 +29,6 @@ No SQL, não importa a forma de escrita entre **Uppercase** e **Lowercase** (Ex.
 
 No arquivo `Detalhes.md` há uma descrição mais detalhada da parte teórica do conteúdo. Dê uma olhadinha para apronfudar mais sobre o conteúdo! 🖖📚
 
-![a](01-introducao/img/criacao-de-tabela.png)
+![a](./img/criacao-de-tabela.png)
 
 ---
