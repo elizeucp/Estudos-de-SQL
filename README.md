@@ -8,6 +8,7 @@ Neste repositório estarão todos os meus estudos e treinos relacionados ao SQL 
 2. [Comando INSERT](./02-comando_insert/README.md)
 3. [Comando SELECT](./03-comando_select/README.md)
 4. [Comando UPDATE](./04-comando_update/README.md)
+5. [Comando DELETE](./05-comando_delete/README.md)
 
 ---
 
