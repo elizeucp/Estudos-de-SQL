@@ -1,4 +1,4 @@
-# Estudos de SQL 
+![Banner-Estudos-de-SQL](./assets/BANNERESTUDOSDESQL.png)
 
 Neste repositório estarão todos os meus estudos e treinos relacionados ao SQL , ampliando os conhecimentos adquiridos em minha faculdade. Aqui estarei deixando arquivado de forma organizada os assuntos que estudei separados em pastas, para facilitar o aprendizado e tornar a consulta mais ágil.
 
