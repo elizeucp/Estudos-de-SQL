@@ -9,7 +9,9 @@ Neste repositório estarão todos os meus estudos e treinos relacionados ao SQL 
 3. [Comando SELECT](./03-comando_select/README.md)
 4. [Comando UPDATE](./04-comando_update/README.md)
 5. [Comando DELETE](./05-comando_delete/README.md)
-
+6. [Criação de VIEWS](./06-views/README.md)
+7. [Criação de TRIGGERS](./07-triggers/README.md)
+   
 ---
 
 ## Como usar este repositório?
